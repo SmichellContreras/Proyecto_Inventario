@@ -151,7 +151,8 @@ private DataSource ds;
 | **Mensajes dinámicos** | Muestra toasts personalizados para éxito/error. |
 | **Validaciones de negocio** | Código, nombre, precio y stock verificados antes de guardar. |
 
-<!-- Aquí va captura del sistema funcionando: listado y formulario -->
+<img width="589" height="294" alt="image" src="https://github.com/user-attachments/assets/29ac9c70-d251-4cb5-8fcb-4ddec2bc968b" />
+
 
 ---
 
