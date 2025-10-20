@@ -80,8 +80,6 @@ INSERT INTO producto (codigo, nombre, categoria, precio, stock, activo) VALUES
 ('CHR001', 'Silla Ergonómica de Oficina', 'Muebles', 899.99, 3, TRUE);
 ```
 
-<!-- Aquí va captura de la base de datos -->
-
 ---
 
 ### 🗄️ 2. Configurar el DataSource en GlassFish
@@ -165,8 +163,6 @@ El diseño utiliza **Bootstrap 5** con una paleta clara y componentes modernos:
 - Modal centralizado para edición de producto.  
 - Toasts para feedback visual al usuario.
 
-<!-- Aquí va captura del modal y los toasts -->
-
 ---
 
 ## 🔁 Flujo de Trabajo
@@ -179,7 +175,6 @@ El diseño utiliza **Bootstrap 5** con una paleta clara y componentes modernos:
 6. Los mensajes se muestran mediante **toasts Bootstrap**.
 7. El botón **Eliminar** ejecuta la acción de borrado tras confirmación.
 
-<!-- Aquí va un diagrama o captura del flujo -->
 
 ---
 
@@ -210,8 +205,6 @@ El diseño utiliza **Bootstrap 5** con una paleta clara y componentes modernos:
    http://localhost:8080/Proyecto_Inventario/productos
    ```
 
-<!-- Aquí va captura del despliegue exitoso -->
-
 ---
 
 ## 🧪 Pruebas sugeridas
@@ -227,18 +220,29 @@ El diseño utiliza **Bootstrap 5** con una paleta clara y componentes modernos:
 ## 👨‍💻 Autores
 
 **Nombre:** Smichell Contreras Y Johana Anaya 
+
 **Asignatura:** Desarrollo de Aplicaciones Empresariales 
 
 ---
 
 ## 📸 Evidencias Visuales
+Inicio
+ <img width="589" height="294" alt="image" src="https://github.com/user-attachments/assets/230e1592-9cb3-44bb-bf00-477529d58b57" />
 
-📷 *Inserta aquí tus pantallazos del proyecto funcionando:*  
-- Base de datos inicial  
-- Despliegue en GlassFish  
-- Listado y formulario  
-- Modal de edición  
-- Mensajes de éxito/error  
+Nos muestra el listado de productos actualmente en la base de datos y nos permite hacer diferentes funciones con cada uno.
+Agregando un nuevo producto al inventario:
+
+<img width="589" height="171" alt="image" src="https://github.com/user-attachments/assets/f0776d7b-631f-4fd1-8e12-3916d0343289" />
+<img width="589" height="151" alt="image" src="https://github.com/user-attachments/assets/7b7efb5e-061d-409c-aaee-457091ed3f69" />
+
+Editando un producto ya creado:
+<img width="589" height="291" alt="image" src="https://github.com/user-attachments/assets/7ccbb75f-683a-4a80-a5e8-132905aba4ad" />
+<img width="589" height="137" alt="image" src="https://github.com/user-attachments/assets/15872084-5a1c-4f73-b74b-e837a1fdf9db" />
+
+Eliminando un producto del inventario:
+<img width="589" height="294" alt="image" src="https://github.com/user-attachments/assets/0594a84f-fd0b-427b-8bea-8b70b531f01b" />
+
+<img width="589" height="236" alt="image" src="https://github.com/user-attachments/assets/9608e115-f96d-4b0e-9ee2-3292c3e4f8d0" />
 
 ---
 
