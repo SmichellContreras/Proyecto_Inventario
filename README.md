@@ -223,13 +223,10 @@ El diseño utiliza **Bootstrap 5** con una paleta clara y componentes modernos:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-**Nombre:** _[Tu nombre completo]_  
-**Correo:** _[tu correo institucional]_  
-**Fecha de entrega:** _[día/mes/año]_  
-**Docente:** _[nombre del profesor]_  
-**Asignatura:** _[nombre del curso o taller]_  
+**Nombre:** Smichell Contreras Y Johana Anaya 
+**Asignatura:** Desarrollo de Aplicaciones Empresariales 
 
 ---
 
