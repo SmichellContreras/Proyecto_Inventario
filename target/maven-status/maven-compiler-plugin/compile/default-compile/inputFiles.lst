@@ -1,0 +1,12 @@
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\service\ValidadorProducto.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\persistence\ProductoDAO.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\view\PreferenciasBean.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\proyecto_inventario\resources\JakartaEE10Resource.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\events\ProductoObserver.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\events\ProductoEvent.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\facade\ProductoFacade.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\model\Producto.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\view\MensajeBean.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\controller\ProductoServlet.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\config\DataSourceProducer.java
+C:\smichelldev\javaProjects\Proyecto_Inventario\src\main\java\com\inventario\proyecto_inventario\JakartaRestConfiguration.java

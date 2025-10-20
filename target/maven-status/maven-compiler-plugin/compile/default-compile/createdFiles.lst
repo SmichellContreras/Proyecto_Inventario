@@ -1,0 +1,12 @@
+com\inventario\config\DataSourceProducer.class
+com\inventario\events\ProductoObserver.class
+com\inventario\controller\ProductoServlet.class
+com\inventario\proyecto_inventario\JakartaRestConfiguration.class
+com\inventario\service\ValidadorProducto.class
+com\inventario\model\Producto.class
+com\inventario\proyecto_inventario\resources\JakartaEE10Resource.class
+com\inventario\view\MensajeBean.class
+com\inventario\persistence\ProductoDAO.class
+com\inventario\events\ProductoEvent.class
+com\inventario\view\PreferenciasBean.class
+com\inventario\facade\ProductoFacade.class
